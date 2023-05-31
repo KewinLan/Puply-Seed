@@ -19,6 +19,9 @@ export default function Footer() {
       <div className="copyright">
         Copyright Pulpy Seed, 2023
       </div>
+      <div className='footer-disclaimer'>
+        <p>None of the products on this website can be purchased, since this is a fictional brand.</p>
+      </div>
     </>
   );
 };
