@@ -1,0 +1,32 @@
+.footer-links {
+  display: flex;
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+}
+.footer-links, a:link, a:visited {
+  text-decoration: none;
+  font-weight: bold;
+  color:#D5CB35;
+}
+.terms-link {
+  position:absolute;
+  right: 6.5em;
+  bottom: 3em;
+  margin-right: 3em;
+}
+.privacy-link {
+  position:absolute;
+  right: 0em;
+  bottom: 3em;
+  margin-right: 1em;
+}
+.copyright {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:absolute;
+  right: 0em;
+  bottom: 1em;
+  margin-right: 1em;
+}

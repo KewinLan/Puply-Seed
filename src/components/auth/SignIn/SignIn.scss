@@ -1,0 +1,30 @@
+.sign-in-inputs input {
+  width: 100%;
+  padding: 0.5em 1em;
+  margin: 0.5em 0;
+  box-sizing: border-box;
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  background-color:#FEF27E;
+  color: #586336;
+  border-radius: 1em;
+  border: none;
+}
+.sign-in-inputs input::placeholder {
+  color: #6B4615;
+}
+.sign-in-button button {
+  border: none;
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color:#586336;
+  background-color: #FEF27E;
+  padding: 0.25em 1.5em;
+  border-radius: 1em;
+}
+.sign-in-button button:hover {
+  background-color: #D5CB35;
+  color: #6B4615;
+}

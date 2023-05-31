@@ -1,0 +1,39 @@
+.cart-title {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:relative;
+  left: 3em; //this is causing page overflow
+  top: 1em;
+}
+.sign-in-head2 {
+  font-size: 0.75em;
+}
+.sign-up-head2 {
+  font-size: 0.75em;
+}
+
+.account-section {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:relative;
+  left: 3em; //this is causing page overflow
+  top: 2em;
+  display: flex;
+}
+.sign-up-section {
+  margin-left:4em;
+}
+.authdetails-section {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:relative;
+  left: 3em; //this is causing page overflow
+  top: 2em;
+  display: flex;
+}

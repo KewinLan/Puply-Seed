@@ -1,0 +1,90 @@
+.bgHeader {
+  //background-color:#6B4615;
+  background-image: url(/images/DirtTexture2_section2.png);
+//  background-position: 50%;
+  // margin: -2em;
+  // margin-bottom: 3em;
+  // size: -10em;
+//  padding:100%;
+// margin-top: -4em;
+//  position:relative;
+//  top:4.5em;
+  //left:-1.5em;
+//  overflow: none;
+  //position: relative;
+  //position: 0px 0px 0px 200px;
+//  padding-right: 100%;
+  //  position:relative;
+  //  object-position: 100% -201px;
+  //  background-size:cover;
+  //display:inline-block;
+  box-shadow: 0px 1px 15px black;
+  //box-sizing: border-box;
+  //flex: 1;
+  //width: 1920px;
+  z-index: 1;
+}
+// .bgHeaderShadow {
+//   box-shadow: inset 0px 5px 5px black !important;
+// }
+.bgHeaderLogo {
+  // margin-left: 3em;
+  // margin-bottom: -3em;
+  position: relative;
+  top:-0.5em;
+  left: 1.5em;
+  margin-bottom: -5.25em;
+}
+.bgHeaderLinks {
+  //  float:right;
+  //  margin: 0em;
+  position: relative;
+//  display:inline-block;
+  //  right: -250%;
+  top: -1em;
+   left: 35.5em;
+//  left: 23em;
+  // right: -39.5em;
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1.75em;
+  font-weight: bold;
+  //  box-shadow: none !important;
+  //  text-decoration: none; //this does not work
+  //  border-bottom: none;
+  //  bottom: -0.1em;
+  display: flex;
+  // margin-right: 34em;
+}
+.bgHeaderLinks a{
+  text-decoration: none;
+  color:#D5CB35;
+}
+.bgHeaderHome {
+  margin-right:1em;
+//  text-decoration: none !important;
+}
+// .bgHeaderProducts {
+//   margin-right:1em;
+// }
+.bgHeaderAbout {
+  margin-right:1em;
+//  text-decoration: none !important;
+}
+.bgHeaderCartIcon {
+  margin-right:0.3em;
+  // position:absolute;
+  // top:0.1em;
+  // right:12.5em;
+  position: relative;
+  top: 0.1em;
+  color:#D5CB35;
+  display: inline-block;
+}
+.bgHeaderCart {
+  margin-right:1em;
+//  display: inline-block;
+}
+.bgHeaderContact{
+  margin-right:1em;
+//  text-decoration: none !important;
+}

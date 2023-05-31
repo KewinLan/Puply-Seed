@@ -1,0 +1,21 @@
+.terms-title {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:relative;
+  left: 3em; //this is causing page overflow
+  top: 1em;
+}
+.terms-body {
+  font-family: Nunito, Quicksand, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color:#D5CB35;
+  position:relative;
+  left: 4.5em; //this is causing page overflow
+  top: 2em;
+  width: 110em;
+  column-count: 3;
+  column-gap: 16em;
+}
