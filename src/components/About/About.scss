@@ -4,7 +4,7 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 1.5em; //this is causing page overflow
+  left: 1.5em;
   top: 0.25em;
 }
 .about-body {
@@ -13,7 +13,7 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 1.5em; //this is causing page overflow
+  left: 1.5em;
   top:-1em;
   inline-size: 16em;
   overflow-wrap: break-word;
@@ -50,4 +50,5 @@
 .view-products-btn button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }

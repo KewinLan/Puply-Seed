@@ -24,9 +24,6 @@
   //width: 1920px;
   z-index: 1;
 }
-// .bgHeaderShadow {
-//   box-shadow: inset 0px 5px 5px black !important;
-// }
 .bgHeaderLogo {
   // margin-left: 3em;
   // margin-bottom: -3em;
@@ -48,8 +45,6 @@
   font-family: Nunito, Quicksand, Arial, sans-serif;
   font-size: 1.75em;
   font-weight: bold;
-  //  box-shadow: none !important;
-  //  text-decoration: none; //this does not work
   //  border-bottom: none;
   //  bottom: -0.1em;
   display: flex;
@@ -61,14 +56,12 @@
 }
 .bgHeaderHome {
   margin-right:1em;
-//  text-decoration: none !important;
 }
 // .bgHeaderProducts {
 //   margin-right:1em;
 // }
 .bgHeaderAbout {
   margin-right:1em;
-//  text-decoration: none !important;
 }
 .bgHeaderCartIcon {
   margin-right:0.3em;
@@ -86,5 +79,4 @@
 }
 .bgHeaderContact{
   margin-right:1em;
-//  text-decoration: none !important;
 }

@@ -9,7 +9,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 0.75em; //this is causing page overflow
+  left: 0.75em;
   top: 0.75em;
 }
 
@@ -22,7 +22,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 1.5em; //this is causing page overflow
+  left: 1.5em;
   top: 1.5em;
 }
 .apple-strawberry-label {
@@ -31,7 +31,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 6.85em; //this is causing page overflow
+  left: 6.85em;
   top: 1.5em;
 }
 .mango-strawberry-label {
@@ -40,7 +40,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 12.3em; //this is causing page overflow
+  left: 12.3em;
   top: 1.5em;
 }
 .apple-grape-label {
@@ -49,7 +49,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 18.25em; //this is causing page overflow
+  left: 18.25em;
   top: 1.5em;
 }
 .grape-strawberry-label {
@@ -58,7 +58,7 @@ body {
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 24.25em; //this is causing page overflow
+  left: 24.25em;
   top: 1.5em;
 }
 
@@ -168,20 +168,25 @@ body {
 .add-to-cart-btn1 button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }
 .add-to-cart-btn2 button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }
 .add-to-cart-btn3 button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }
 .add-to-cart-btn4 button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }
 .add-to-cart-btn5 button:hover {
   background-color: #D5CB35;
   color: #6B4615;
+  cursor: pointer;
 }
