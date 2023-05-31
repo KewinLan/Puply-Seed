@@ -1,11 +1,11 @@
 .contact-title {
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 1em;
+  font-size: 0.9em;
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.5em; //this is causing page overflow
+  top: 0.15em;
 }
 .contact-address {
   display: flex;
@@ -14,8 +14,13 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.75em; //this is causing page overflow
+  top: -1.2em;
+}
+.contact-icons {
+  position: relative;
+  top: 1.1em;
+  left: -0.5em;
 }
 .contact-phone {
   display: flex;
@@ -24,8 +29,8 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.75em; //this is causing page overflow
+  top: -2.5em;
 }
 .contact-email {
   display: flex;
@@ -34,16 +39,16 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.75em; //this is causing page overflow
+  top: -3.5em;
 }
 
 .contact-bg {
   background-image: url('../../images/FruitBowl1.png');
-  width:1080px;
-  height:736px;
+  width:864px;
+  height:589px;
   position:relative;
-  top:-25.5em;
+  top:-26em;
   left: 36em;
   background-size:cover;
   z-index: -1;

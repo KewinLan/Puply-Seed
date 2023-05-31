@@ -1,11 +1,11 @@
 .about-title {
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 1em;
+  font-size: .85em;
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.5em; //this is causing page overflow
+  top: 0.25em;
 }
 .about-body {
   font-family: Nunito, Quicksand, Arial, sans-serif;
@@ -13,8 +13,8 @@
   font-weight: bold;
   color:#D5CB35;
   position:relative;
-  left: 3em; //this is causing page overflow
-  top: 1em;
+  left: 1.5em; //this is causing page overflow
+  top:-1em;
   inline-size: 16em;
   overflow-wrap: break-word;
 }
@@ -25,8 +25,8 @@
 
 .about-bg {
     background-image: url('../../images/FruitBowl1.png');
-    width:1080px;
-    height:736px;
+    width:864px;
+    height:589px;
     position:relative;
     top:-4.5em;
     left: 12em;
@@ -43,8 +43,8 @@
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 25em;
-  left: 3.75em;
+  top: 23.5em;
+  left: 2.75em;
   border-radius: 1em;
 }
 .view-products-btn button:hover {

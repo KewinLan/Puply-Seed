@@ -66,25 +66,26 @@ body {
 .bottle-images {
   display: flex;
   position: absolute;
-  top: 16.5em;
+  top: 14.5em;
+  left: -2.5em;
 }
 
 .orange-mango-img {
   filter: drop-shadow(0.5em 0.5em 0.5em rgba(0,0,0,0.5));
   margin-left: 6em; //was 5.5
-  margin-right: 14.25em; //was 10.25
+  margin-right: 11.25em; //was 10.25
 }
 .apple-strawberry-img {
   filter: drop-shadow(0.5em 0.5em 0.5em rgba(0,0,0,0.5));
-  margin-right: 14.25em;
+  margin-right: 13.25em;
 }
 .mango-strawberry-img {
   filter: drop-shadow(0.5em 0.5em 0.5em rgba(0,0,0,0.5));
-  margin-right: 14.25em;
+  margin-right: 11.5em;
 }
 .apple-grape-img {
   filter: drop-shadow(0.5em 0.5em 0.5em rgba(0,0,0,0.5));
-  margin-right: 14.25em;
+  margin-right: 11.75em;
 }
 .grape-strawberry-img {
   filter: drop-shadow(0.5em 0.5em 0.5em rgba(0,0,0,0.5));
@@ -96,70 +97,72 @@ body {
   height: 2em;
   position: relative;
   border: none;
+  // outline: 10px solid red;
 }
 .add-to-cart-btn1 button {
   border: none;
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   color:#586336;
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 18em;
-  left: 1.5em;
+  top: 18.5em;
+  left: 0.9em;
   border-radius: 1em;
+    // outline: 10px solid red;
 }
 .add-to-cart-btn2 button {
   border: none;
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   color:#586336;
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 18em;
-  left: 13.5em;
+  top: 18.5em;
+  left: 14em;
   border-radius: 1em;
 }
 .add-to-cart-btn3 button {
   border: none;
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   color:#586336;
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 18em;
-  left: 25.75em;
+  top: 18.5em;
+  left: 28.25em;
   border-radius: 1em;
 }
 .add-to-cart-btn4 button {
   border: none;
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   color:#586336;
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 18em;
-  left: 38em;
+  top: 18.5em;
+  left: 41.25em;
   border-radius: 1em;
 }
 .add-to-cart-btn5 button {
   border: none;
   font-family: Nunito, Quicksand, Arial, sans-serif;
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: bold;
   color:#586336;
   background-color: #FEF27E;
   padding: 0.25em 1.5em;
   position: absolute;
-  top: 18em;
-  left: 50.25em;
+  top: 18.5em;
+  left: 54.5em;
   border-radius: 1em;
 }
 .add-to-cart-btn1 button:hover {
